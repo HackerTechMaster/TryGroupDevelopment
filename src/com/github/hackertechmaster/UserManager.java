@@ -5,6 +5,9 @@ import java.util.Map;
 
 public class UserManager {
     private Map<String, User> userMap = new HashMap<>();
+    public static final UserManager INSTANCE = new UserManager();
+
+    private UserManager() {}
 
     public boolean addUser(User user) {
         String username = user.getUsername();
