@@ -1,4 +1,4 @@
-package com.github.hackertechmaster;
+package com.github.hackertechmaster.trygroupdevelopment;
 
 import java.util.HashMap;
 import java.util.Map;

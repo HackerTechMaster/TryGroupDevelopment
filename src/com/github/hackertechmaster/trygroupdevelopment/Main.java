@@ -1,11 +1,11 @@
-package com.github.hackertechmaster;
+package com.github.hackertechmaster.trygroupdevelopment;
 
-import com.github.hackertechmaster.implement.ConcreteBuy;
-import com.github.hackertechmaster.implement.ConcreteLogin;
-import com.github.hackertechmaster.implement.ConcreteRegister;
-import com.github.hackertechmaster.interfaces.IBuy;
-import com.github.hackertechmaster.interfaces.ILogin;
-import com.github.hackertechmaster.interfaces.IRegister;
+import com.github.hackertechmaster.trygroupdevelopment.implement.ConcreteBuy;
+import com.github.hackertechmaster.trygroupdevelopment.implement.ConcreteLogin;
+import com.github.hackertechmaster.trygroupdevelopment.implement.ConcreteRegister;
+import com.github.hackertechmaster.trygroupdevelopment.interfaces.IBuy;
+import com.github.hackertechmaster.trygroupdevelopment.interfaces.ILogin;
+import com.github.hackertechmaster.trygroupdevelopment.interfaces.IRegister;
 
 public class Main {
     private static IRegister iRegister;

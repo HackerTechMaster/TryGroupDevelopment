@@ -1,4 +1,4 @@
-package com.github.hackertechmaster;
+package com.github.hackertechmaster.trygroupdevelopment;
 
 public class User {
     private String username;

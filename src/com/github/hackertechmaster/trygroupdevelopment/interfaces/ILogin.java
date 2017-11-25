@@ -1,4 +1,4 @@
-package com.github.hackertechmaster.interfaces;
+package com.github.hackertechmaster.trygroupdevelopment.interfaces;
 
 public interface ILogin {
     int OK = 0;

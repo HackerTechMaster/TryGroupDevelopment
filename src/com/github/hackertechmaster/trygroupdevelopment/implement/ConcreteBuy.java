@@ -1,8 +1,8 @@
-package com.github.hackertechmaster.implement;
+package com.github.hackertechmaster.trygroupdevelopment.implement;
 
-import com.github.hackertechmaster.User;
-import com.github.hackertechmaster.UserManager;
-import com.github.hackertechmaster.interfaces.IBuy;
+import com.github.hackertechmaster.trygroupdevelopment.User;
+import com.github.hackertechmaster.trygroupdevelopment.UserManager;
+import com.github.hackertechmaster.trygroupdevelopment.interfaces.IBuy;
 
 public class ConcreteBuy implements IBuy {
     @Override
